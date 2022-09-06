@@ -395,7 +395,7 @@ export default {
           to="/"
           class="logo logo-light text-center d-flex align-items-center justify-content-center text-white heading-1"
         >
-          Filtrindo
+          Kasir Pintar
           <span class="logo-lg">
             <!-- <img src="~/assets/images/logo-light.png" alt height="20" /> -->
           </span>
